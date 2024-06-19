@@ -1,5 +1,5 @@
-# SM_Project
-A small project to check our understanding on Statistical Methods subject at International Univeristy - VNU - HCM
+Life Expectancy Prediction 
 
-## Nội quy của cái repo này
-Vì bài này đơn giản nên không tạo linh tinh branch khác nhá, chỉ có thể thôi :3
+This project focuses on predicting life expectancy for different countries worldwide using statistical methods. We implement an Ordinary Least Squares (OLS) model in a Python notebook to achieve this. Below, you’ll find essential details about the project.
+
+
