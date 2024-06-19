@@ -1,7 +1,6 @@
-# Life Expectancy Prediction Project
+# Life Expectancy (WHO) Prediction
 
 This project is part of a Statistical Methods course, aiming to predict life expectancy for all countries around the world using an Ordinary Least Squares (OLS) regression model. The analysis and modeling are implemented using a Python Jupyter Notebook
-## Team members
 ## Team Members 
 
 | Order |         Name          |     ID      |                  Email                  |                       Github account                        |                              Facebook                              |
