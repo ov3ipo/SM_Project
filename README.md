@@ -8,7 +8,7 @@ This project is part of a Statistical Methods course, aiming to predict life exp
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
 |   1   | Nguyen Hong Son | ITDSIU21117 | soniu03052003@gmail.com | [Son-SDT](https://github.com/Son-SDT) | [Son Son](https://www.facebook.com/nguyenhongson0305outlook) |
 |   2   | Nguyen Nhat Khiem | ITDSIU21091 | nhatkhiem003@gmail.com | [Khim3](https://github.com/Khim3) | [Khiem Nguyen](https://www.facebook.com/khiem.nguyen.042) |
-|   3   | Nguyen Tri Tin | ITDSIU21123 | tinnguyen109@outlook.com | [MicroGix](https://github.com/MicroGix) | [Tin Nguyen](https://www.facebook.com/tinnguyen105/) |
+|   3   | Nguyen Tri Tin | ITDSIU21123 | tinnguyen109@outlook.com | [MicroGix](https://github.com/ov3ipo) | [Tin Nguyen](https://www.facebook.com/tinnguyen105/) |
 |   4   | Le Thi Thuy Nga | ITDSIU21024 | lethithuynga220103@gmail.com  | [Schrrodinger](https://github.com/Schrrodinger) | [Thuy Nga](https://www.facebook.com/profile.php?id=100032005854236) |
 |   5   | Dang Thai Son | ITDSIU21115 | thaisongaim@gmail.com | [daibacgantay](https://github.com/daibacgantay) | [Thai Son](https://www.facebook.com/profile.php?id=100024085040850) |
 ## Project overview 
